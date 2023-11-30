@@ -1,0 +1,29 @@
+ID — ID field that represents a specific machine.
+
+DATE — The date of the observation.
+
+REGION_CLUSTER — a field that represents the region in which the machine resides.
+
+MAINTENANCE_VENDOR — a field that represents the company that provides maintenance and service to the machine.
+
+MANUFACTURER — the company that manufactured the equipment in question.
+
+WELL_GROUP — a field representing the type of machine.
+
+EQUIPMENT_AGE — Age of the machine, in days.
+
+S15 — A Sensor Value.
+
+S17 — A Sensor Value.
+
+S13 — A Sensor Value.
+
+S16 — A Sensor Value.
+
+S19 — A Sensor Value.
+
+S18 — A Sensor Value.
+
+S8 — A Sensor Value.
+
+EQUIPMENT_FAILURE — A ‘1’ means that the equipment failed. A ‘0’ means the equipment did not fail.
